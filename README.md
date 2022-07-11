@@ -22,7 +22,6 @@ Main working repo for Methods for Teaching Computer Science I -- Summer 2022
 * * *
 
 ## Our work repos
-## Our work repos
 - [Seth Adams](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Mr-Adams)
 - [usman ahmed](https://github.com/hunter-teacher-cert/cohort-3-summer-work-usman0527)
 - [Joel Bianchi](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jabianchi)
@@ -81,4 +80,3 @@ Main working repo for Methods for Teaching Computer Science I -- Summer 2022
 - [Maxwell Yearwood](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Maxwoodi)
 - [Yenmin Young](https://github.com/hunter-teacher-cert/cohort-3-summer-work-yenminyoung)
 - [Qianhui Vanessa Zou](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou)
-
