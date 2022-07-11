@@ -16,7 +16,7 @@ Main working repo for Methods for Teaching Computer Science I -- Summer 2022
 - HTML help
   - <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
   - <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>
-- syllabus: <https://github.com/hunter-teacher-cert/sedc71900-summer-2021/blob/main/syllabus.md>
+- syllabus: <https://github.com/hunter-teacher-cert/sedc71900-summer-2022/blob/main/syllabus.md>
 
 
 
