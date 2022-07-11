@@ -3,7 +3,7 @@
 ### Department Of Curriculum & Teaching / Computer Science Education
 ### Hunter College, CUNY
 ### Summer Semester 2021
-### Professor Jonalf Dyrland-Weaver
+### Professors Jonalf Dyrland-Weaver & Topher Mykolyk
 ### Office Hours: TBA And By Appointment
 ### Email jd5122@hunter.cuny.edu
 
@@ -57,32 +57,27 @@ N/A
 	- Describe portfolio requirement (see last topic)
 	- Assignment: Bring in a lesson plan
 1. July 13
-	- The anatomy of a CS lesson
-	- content
-	- Styles
-	- Pacing
-	- Assignment: design a sample computer science lesson
-1. July 14
+	- Compare brought in lesson plans.
 	- Live coding
 	- what is it and why is it effective
 	- live coding demo
 	- lab: design and demo a live coding experience from a CS1 program
-1. July 15
+1. July 14
 	- Pair programming lab
 	- Standards
   	- CT 10
-1. July 18
+1. July 15
 	* Code tracing
-1. July 19
+1. July 18
 	- Code Tracing
 	- Language analysis - NetLogo
-1. July 20
+1. July 19
 	- Unplugged assignments
 	- what and why
 	- Assignment: design an unplugged experience.
 	- Standards
 	  - IC 1
-1. July 21
+1. July 20
 	- Scaffolding assignments
 		- Code templates
 	- starter code
@@ -91,23 +86,23 @@ N/A
 		 as starter code or code templates for a student assignment.
 	 - Standards
 		 - CT 4
-1. July 22
+1. July 21
    - Using javadoc
    - Making class resources easily available over the internet.
      - Using a GitHub repository as a main class website.
      - Using GitHub pages to serve an html/css/js website.
-1. July 25
+1. July 22
 	- Introducing efficiency in non standard problems.
 	- Unsing industry standard tools in the classroom
  	- Git for collecting work, associated support tools.
  	- Git + GitHub for presenting materials for students and from students.
 	- Assignment
 		- Use GitHub Pages to create a portfolio website for your certification program courses so far.
-1. July 26
+1. July 25
 	- Community & Collaboration in the CS classroom.
 	- Using other peoples code.
 	- Assignment: Design an experience that makes use of an existing library.
-1. July 27
+1. July 26
 	-	Using library code
 	- "thwarting" assignments
 	- Ethical issues (copying vs collaborating)
@@ -120,20 +115,22 @@ N/A
 	- lab/assignment: Break down a CS program with subgoal labels.
 	- Standards
 	 - CT 9
-1. July 28
+1. July 27
 	* Working with jsoup.
 	* Problems with using libraries in the classroom.
 	* Looking at Ria Galanos' java Twitter API assignment.
-1. July 29
+1. July 28
 	- "Nifty" assignments
 	- Debugging as a class technique part 1
 		- Code tracing review
 		- Print statement debugging
 		- Using debugging tools.
 		- NY State Standards Overview
-1. August 1
+1. July 29
 	- Portfolio work
 	- Group collaboration
+1. August 1
+  - Mystery day!
 1. August 2
 	- Portfolio work
 	- Group collaboration
