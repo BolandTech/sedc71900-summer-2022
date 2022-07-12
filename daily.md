@@ -8,6 +8,10 @@
   * Assignment:
     - Have a lesson plan available to share and discuss in class on Wednesday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
 
+## Day 1 - July 13
+  * tk
+
+* * *
 
 ---
 
