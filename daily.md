@@ -11,7 +11,7 @@
 
 ---
 
-## Portfolio assignment due 1 week after last class session.
+## Portfolio assignment
 
    Students are to create two detailed lesson plans,
    outlines and supporting materials for computer science. The lesson plans and outlines should include a description of the intended student
