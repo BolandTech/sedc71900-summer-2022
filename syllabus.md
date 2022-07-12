@@ -2,7 +2,7 @@
 
 ### Department Of Curriculum & Teaching / Computer Science Education
 ### Hunter College, CUNY
-### Summer Semester 2021
+### Summer Semester 2022
 ### Professors Jonalf Dyrland-Weaver & Topher Mykolyk
 ### Office Hours: TBA And By Appointment
 ### Email jd5122@hunter.cuny.edu
