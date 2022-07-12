@@ -1,12 +1,12 @@
 # Daily Assignments / Notes
 
-## Day 0 - July 9
+## Day 0 - July 12
   * Class intro
   * What is CS?
   * Why teach CS?
   * Difficulties in teaching and learning computer science?
   * Assignment:
-    - Have a lesson plan available to share and discuss in class on Monday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
+    - Have a lesson plan available to share and discuss in class on Wednesday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
 
 
 ---
