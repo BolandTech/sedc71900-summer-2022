@@ -13,8 +13,8 @@
   * Lesson plan review ("talk shop", share protips/techniques)
   * Lesson plan writing
 
-Teams for Lesson Plan Work:
 ```
+Teams for Lesson Plan Work:
 1	Yeidy L	Alana R	Ashley U	Théa W	Vanessa Z
 2	Tanya W	Alise B	Christopher D	adam d	
 3	Benjamin E	Patti E	William L	Kate M	
