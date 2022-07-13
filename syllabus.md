@@ -58,16 +58,17 @@ N/A
 	- Assignment: Bring in a lesson plan
 1. July 13
 	- Compare brought in lesson plans.
-	- Live coding
-	- what is it and why is it effective
-	- live coding demo
-	- lab: design and demo a live coding experience from a CS1 program
+  - Share key practices in plans.
+  - Assignment: Create a lesson plan based on prework.
 1. July 14
 	- Pair programming lab
 	- Standards
   	- CT 10
 1. July 15
-	* Code tracing
+  - Live coding
+  - what is it and why is it effective
+  - live coding demo
+  - lab: design and demo a live coding experience from a CS1 program
 1. July 18
 	- Code Tracing
 	- Language analysis - NetLogo
