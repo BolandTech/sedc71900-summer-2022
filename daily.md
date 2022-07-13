@@ -10,7 +10,26 @@
     - Have a lesson plan available to share and discuss in class on Wednesday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
 
 ## Day 1 - July 13
-  * Lesson planning
+  * Lesson plan review ("talk shop", share protips/techniques)
+  * Lesson plan writing
+
+Teams for Lesson Plan Work:
+```
+1	Yeidy L	Alana R	Ashley U	Théa W	Vanessa Z
+2	Tanya W	Alise B	Christopher D	adam d	
+3	Benjamin E	Patti E	William L	Kate M	
+4	Saranii M	Greg S	Jerusha T	Maxwell Y	
+5	Seth A	usman a	Joel B	Latoya B	
+6	Aasine C	Dave C	Nicole C	Charles D	
+7	Harrison F	stacy G	Taylor G	Ed H	
+8	Shana Elizabeth H	Kiana H	Joshua H	Rachel K	
+9	Erwin L	Amanda L	Jenna L	Sam L	
+10	Christine M	Kirk M	Sarah M	Parmanand M	
+11	David M	Jihae P	Mike P	Richard P	
+12	Adam P	Michael R	Elizabeth R	Yanique S	Steve S
+13	Suzie S	Marisa S	Marieke T	Wayne T	
+14	Alicia W	Jing X	Yenmin Y	Jessica N	
+```
 
 ---
 
