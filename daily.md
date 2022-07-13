@@ -12,24 +12,38 @@
 ## Day 1 - July 13
   * Lesson plan review ("talk shop", share protips/techniques)
   * Lesson plan writing
+  * Assignment:
+    - As a crew, create a lesson plan for a concept covered in the pre-work or the first programming course in this program (not data structures).
+    - This should be a lesson plan for your appropriate grade level.
+    - You need **not** create supplemental materials like sample code, assignments, etc.
+    - Use whatever file format that is more convenient for you, but name the file **`01_lesson`** (with the appropriate file extension) and put it in your **`methods`** folder.
+    - For reference, here are the topics
+      * Recursion
+      * Conditionals
+      * Methods
+      * Loops
+      * Methods/Decomposition/Algorithms
+      * Early java
+      * Strings
+      * Data types / variables
 
-```
-Teams for Lesson Plan Work:
-1	Yeidy L	Alana R	Ashley U	Théa W	Vanessa Z
-2	Tanya W	Alise B	Christopher D	adam d	
-3	Benjamin E	Patti E	William L	Kate M	
-4	Saranii M	Greg S	Jerusha T	Maxwell Y	
-5	Seth A	usman a	Joel B	Latoya B	
-6	Aasine C	Dave C	Nicole C	Charles D	
-7	Harrison F	stacy G	Taylor G	Ed H	
-8	Shana Elizabeth H	Kiana H	Joshua H	Rachel K	
-9	Erwin L	Amanda L	Jenna L	Sam L	
-10	Christine M	Kirk M	Sarah M	Parmanand M	
-11	David M	Jihae P	Mike P	Richard P	
-12	Adam P	Michael R	Elizabeth R	Yanique S	Steve S
-13	Suzie S	Marisa S	Marieke T	Wayne T	
-14	Alicia W	Jing X	Yenmin Y	Jessica N	
-```
+    ```
+    Teams for Lesson Plan Work:
+    1	Yeidy L	Alana R	Ashley U	Théa W	Vanessa Z
+    2	Tanya W	Alise B	Christopher D	adam d
+    3	Benjamin E	Patti E	William L	Kate M
+    4	Saranii M	Greg S	Jerusha T	Maxwell Y
+    5	Seth A	usman a	Joel B	Latoya B
+    6	Aasine C	Dave C	Nicole C	Charles D
+    7	Harrison F	stacy G	Taylor G	Ed H
+    8	Shana Elizabeth H	Kiana H	Joshua H	Rachel K
+    9	Erwin L	Amanda L	Jenna L	Sam L
+    10	Christine M	Kirk M	Sarah M	Parmanand M
+    11	David M	Jihae P	Mike P	Richard P
+    12	Adam P	Michael R	Elizabeth R	Yanique S	Steve S
+    13	Suzie S	Marisa S	Marieke T	Wayne T
+    14	Alicia W	Jing X	Yenmin Y	Jessica N
+    ```
 
 ---
 
