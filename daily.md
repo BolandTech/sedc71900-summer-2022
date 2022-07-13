@@ -10,22 +10,9 @@
     - Have a lesson plan available to share and discuss in class on Wednesday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
 
 ## Day 1 - July 13
+  * Recap "What is CS?" discussion.
   * Lesson plan review ("talk shop", share protips/techniques)
   * Lesson plan writing
-  * Assignment:
-    - As a crew, create a lesson plan for a concept covered in the pre-work or the first programming course in this program (not data structures).
-    - This should be a lesson plan for your appropriate grade level.
-    - You need **not** create supplemental materials like sample code, assignments, etc.
-    - Use whatever file format that is more convenient for you, but name the file **`01_lesson`** (with the appropriate file extension) and put it in your **`methods`** folder.
-    - For reference, here are the topics
-      * Recursion
-      * Conditionals
-      * Methods
-      * Loops
-      * Methods/Decomposition/Algorithms
-      * Early java
-      * Strings
-      * Data types / variables
 
     ```
     Teams for Lesson Plan Work:
