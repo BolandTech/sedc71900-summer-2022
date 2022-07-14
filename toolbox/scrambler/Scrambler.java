@@ -13,7 +13,6 @@ import java.util.*;
 
 public class Scrambler
 {
-
   public static void main( String[] args )
   {
     Scanner input = new Scanner( System.in );
@@ -29,11 +28,13 @@ public class Scrambler
       names.add(name);
     }
 
+    //shuffle the collection
     for( int i=0; i<names.size(); i++ ) {
       int r = (int)(Math.random()*names.size() );
       names.set( r, names.set(i, names.get(r)) ); //swap(i,r)
     }
 
+    //print scrambled collection
     for( String n : names ) {
       System.out.println(n);
     }

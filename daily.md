@@ -9,6 +9,7 @@
   * Assignment:
     - Have a lesson plan available to share and discuss in class on Wednesday. If you have taught CS, use a CS lesson. If you have not had to create a lesson plan ever, spend time thinking about what a lesson plan would look like.
 
+
 ## Day 1 - July 13
   * Recap "What is CS?" discussion.
   * Lesson plan review ("talk shop", share protips/techniques)
@@ -31,9 +32,72 @@
     13	Suzie S	Marisa S	Marieke T	Wayne T
     14	Alicia W	Jing X	Yenmin Y	Jessica N
     ```
+
+
 ## Day 2 - July 14
   * Pair programming
   * Collaborative lesson planning
+
+#### Assignment :: Pair Programming
+    - Pair-program the given functions.
+    - Coding car stuck? "Wave your team flag" by posting `:alert:` to main slack.
+    - Use KtS liberally. If possible, note pedagogical aspects.
+    - Function descriptions and sample output:
+
+  `barGraphify(nums)` takes a list of non-negative integers and prints a horizontal bar for each index, commensurate with the value at said index. _Exempli gratia,_ for x = {0,1,2,3}:
+  ```
+  barGraphify(x)
+  0:
+  1: =
+  2: ==
+  3: ===
+  ```
+
+  and for x = {1,0,3,2}
+  ```
+  barGraphify(x)
+  0: =
+  1:
+  2: ===
+  3: ==
+  ```
+
+  `vertBarGraphify(nums)` takes a list of non-negative integers and prints a set of vertical bars visualizing the magnitude of the value at each index. _Exempli gratia,_ for x = {0,1,2,3}:
+  ```
+  vertBarGraphify(x)
+        *
+      * *
+    * * *
+  0 1 2 3
+  ```
+
+  and for x = {1,0,3,2}:
+  ```
+  vertBarGraphify(x) ->
+
+      *
+      * *
+  *   * *
+  0 1 2 3
+
+  ```
+
+#### Assignment :: Collaborative Lesson Planning:
+  - As a crew (same lesson plan teams as yesterday), create a lesson plan for a concept covered in the pre-work or the first programming course in this program (not data structures).
+  - This should be a lesson plan for your appropriate grade level.
+  - You need **not** create supplemental materials like sample code, assignments, etc.
+  - Use whatever file format is most convenient for you
+  - Name the file **`01_lesson`** (with appropriate file extension) and put it in your **`methods`** folder.
+  - For reference, here are the topics
+    * Recursion
+    * Conditionals
+    * Methods
+    * Loops
+    * Methods/Decomposition/Algorithms
+    * Early java
+    * Strings
+    * Data types / variables
+
 
 ---
 
