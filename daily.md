@@ -39,10 +39,10 @@
   * Collaborative lesson planning
 
 #### Assignment :: Pair Programming
-    - Pair-program the given functions.
-    - Coding car stuck? "Wave your team flag" by posting `:alert:` to main slack.
-    - Use KtS liberally. If possible, note pedagogical aspects.
-    - Function descriptions and sample output:
+  - Pair-program the given functions.
+  - Coding car stuck? "Wave your team flag" by posting `:alert:` to main slack.
+  - Use KtS liberally. If possible, note pedagogical aspects.
+  - Function descriptions and sample output:
 
   `barGraphify(nums)` takes a list of non-negative integers and prints a horizontal bar for each index, commensurate with the value at said index. _Exempli gratia,_ for x = {0,1,2,3}:
   ```
