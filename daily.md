@@ -32,7 +32,8 @@
     14	Alicia W	Jing X	Yenmin Y	Jessica N
     ```
 ## Day 2 - July 14
-  * 
+  * Pair programming
+  * Collaborative lesson planning
 
 ---
 

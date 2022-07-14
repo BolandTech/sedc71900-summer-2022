@@ -1,0 +1,63 @@
+tools:
+-------------------------
+atom plugin for simultaneous editing
+https://teletype.atom.io/
+atom://teletype/portal/87243f76-4ac2-4c59-b9bd-552cfaa0da6b
+
+vscode equivalent
+https://code.visualstudio.com/learn/collaboration/live-share
+
+cross-platform plugin for simulediting
+https://floobits.com
+
+repl.it
+
+
+reads:
+-------------------------
+https://en.wikipedia.org/wiki/Pair_programming
+
+https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge
+
+
+viewings:
+-------------------------
+For your entertainment, here is a clip of a driver and co-driver interacting less than optimally:
+https://www.youtube.com/watch?v=D9-voINFkCg
+
+...and other crews doing it well:
+https://www.youtube.com/watch?v=5TTiepVHZnY
+
+
+crowdsourced good phrasing to suggest students use :
+-------------------------
+Driver: "Why [x] not [y]?
+Driver: "How should I write that?"
+Navigator: "What if we..."
+What should be the data type of this method/variable?
+How should we initialize this variable?
+Do we need to return something? What should we return?
+Should this method take any parameters?
+Where should the loop start? Where should it end?
+
+
+crowdsourced possible areas to amp up your students' PP experience:
+-------------------------
+Having peer tutors circulating as additional support can be a game changer
+Focus on process over results.
+Providing a file with skeleton code would speed up the startup. But there’s also value in starting from scratch, if that skill is necessary.
+more guidance for the role of the navigator- what questions/actions could the navigator take?
+At first give time to plan out the problem regardless of driver / navigator roles
+Rules displayed
+1 KtS in group to have a driver/navigator for the plannign process
+Have some supporting documentation specific to the task
+allow planning time before driver and navigator roles are assigned so everyone is on the same page
+allow students to get to know each other, or offline activity where they worked together already to implement code.
+Provide the problem and give students time to have a class conversation on how the problem should be solved
+examples/models of syntax
+practice with something easy/ non coding/ offline to get familiar with the concept of driver/ navigator before going into coding process
+sort of play acting in physical space almost like acting
+Stick to the strategy. Always try to pair based on levels of coding levels
+do a non-coding activity as the first pair programming assignment just to get students used to structure, like build a tower or legos
+first time would do longer amount of time, gradually shorten time over the semester
+maybe put a limit (do 5 lines of code then switch)
