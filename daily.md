@@ -38,7 +38,7 @@
   * Pair programming
   * Collaborative lesson planning
 
-#### Assignment :: Pair Programming
+#### Activity :: Pair Programming (be-the-student version)
   - Pair-program the given functions.
   - Coding car stuck? "Wave your team flag" by posting `:alert:` to main slack.
   - Use KtS liberally. If possible, note pedagogical aspects.
