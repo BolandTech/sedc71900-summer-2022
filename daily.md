@@ -31,6 +31,8 @@
     13	Suzie S	Marisa S	Marieke T	Wayne T
     14	Alicia W	Jing X	Yenmin Y	Jessica N
     ```
+## Day 2 - July 14
+  * 
 
 ---
 
