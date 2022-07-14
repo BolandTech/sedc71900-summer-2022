@@ -99,6 +99,9 @@
     * Data types / variables
 
 
+## Day 2 - July 14
+  * livecoding
+
 ---
 
 ## Portfolio assignment
