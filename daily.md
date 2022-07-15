@@ -103,7 +103,9 @@
   * lesson planning (cont.)
   * livecoding
 
-#### ACTIVITY: Annotate the provided code as a plan for live coding using the TEACHER PROMPTS below.
+#### ACTIVITY: Code annotation for livecoding
+
+Annotate the provided code as a plan for live coding using the TEACHER PROMPTS below.
 
 teams:
 ```
