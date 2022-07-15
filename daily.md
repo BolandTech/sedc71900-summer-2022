@@ -103,6 +103,42 @@
   * lesson planning (cont.)
   * livecoding
 
+#### ACTIVITY Annotate existing code activity
+
+ACTIVITY: Annotate the provided code as a plan for live coding using the TEACHER PROMPTS below.
+
+TEACHER PROMPTS:
+  ```
+  PROVIDE :: code snippets or comments you definitely want to provide
+  STUDENT-PROMPT :: a specifically-worded question you want to ask, or a general solicitation for input, etc
+  MUST-ANSWER-Q :: a question that must be resolved, that a majority of your class must understand before moving on
+  BIG IDEA :: an introduction of a new topic, a connection to prior lesson or discussion for application here in code, etc.
+  BEEG REVEAL :: this is gonna blow yer minds...
+  DELIBERATE-ERROR :: specific code snippet or a general approach that is a bad fit for the situation, is flat-out wrong, or will lead to a compile- or run-time error, etc.
+  FIRSTDRAFT :: code that will work for now, but which you intend to replace later
+  REVISION vX :: better versions of firstdraft code...
+  ```
+
+CODE: This method should search through `data` and return the index of the first time `value` appears in `data`. If `value` is not in `data` return -1.
+  ```
+  public int linearSearch(int value, ArrayList<Integer> data) {
+
+    int foundIndex = -1;
+
+    for (int i=0; i < data.size(); i++) {
+
+      int element = data.get(i);
+
+      if (e == value) {
+        foundIndex = i;
+        break;
+        }
+      }
+    return foundIndex;
+  }
+  ```
+
+
 ---
 
 ## Portfolio assignment
