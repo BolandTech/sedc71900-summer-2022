@@ -107,6 +107,24 @@
 
 ACTIVITY: Annotate the provided code as a plan for live coding using the TEACHER PROMPTS below.
 
+teams:
+```
+1	Joel B	Wayne T	usman a	Alicia W	
+2	Taylor G	Latoya B	Nicole C	Alise B	
+3	William L	Saranii M	Rachel K	stacy G	
+4	Kiana H	Théa W	Marieke T	David M	
+5	Jessica N	Jenna L	Maxwell Y	Greg S	
+6	Michael R	Jerusha T	Yenmin Y	Benjamin E	
+7	Sam L	Mike P	Amanda L	Elizabeth R	
+8	Parmanand M	Tanya W	Aasine C	Harrison F	
+9	Jihae P	Yeidy L	Seth A	Shana Elizabeth H	
+10	Ed H	Kirk M	Patti E	Alana R	
+11	Steve S	Christine M	adam d	Christopher D	
+12	Ashley U	Yanique S	Suzie S	Adam P	Erwin L
+13	Joshua H	Richard P	Sarah M	Dave C	
+14	Kate M	Vanessa Z	Jing X	Marisa S	
+```
+
 TEACHER PROMPTS:
   ```
   PROVIDE :: code snippets or comments you definitely want to provide
@@ -119,8 +137,9 @@ TEACHER PROMPTS:
   REVISION vX :: better versions of firstdraft code...
   ```
 
-CODE: This method should search through `data` and return the index of the first time `value` appears in `data`. If `value` is not in `data` return -1.
-  ```
+CODE: 
+This method should search through `data` and return the index of the first time `value` appears in `data`. If `value` is not in `data` return -1.
+  ```java
   public int linearSearch(int value, ArrayList<Integer> data) {
 
     int foundIndex = -1;
