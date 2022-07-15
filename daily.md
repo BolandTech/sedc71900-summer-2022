@@ -99,7 +99,8 @@
     * Data types / variables
 
 
-## Day 2 - July 14
+## Day 3 - July 15
+  * lesson planning (cont.)
   * livecoding
 
 ---
