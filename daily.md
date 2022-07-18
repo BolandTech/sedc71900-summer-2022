@@ -189,6 +189,8 @@ teams for TRACING
 15	awade	slojacono	mthomas	
 ```
 
+## Day 5 - July 19
+  * code tracing (cont.)
 
 
 ---
