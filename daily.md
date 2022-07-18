@@ -168,6 +168,28 @@ This method should search through `data` and return the index of the first time 
   1. Create your livecoding plan. You can use any combination of the TEACHER PROMPTS from the previous activity and your own reminders/symbols/notation.
   1. DELIVERABLE: Submit your livecoding plan as **`methods/02_livecode_LANGUAGE`** with the appropriate file extension for your plan. If your group creates a plan that includes drawing markup, a pdf or image file is acceptable.
 
+#### Activity :: Table trace
+
+teams for TRACING
+```
+1	myearwood	cdesilva	hfung	qzou
+2	ylevels	kmaschmeyer	dmoste	aufret
+3	lboland	jpark	mshuman	erechtin
+4	abraick	mrandazzo	rkaufman	jtheobald
+5	beckley	kherr	aprado	twilliams
+6	shenry	sgoldstein	gsciame	twardally
+7	jlin	alee		ncojuangco
+8	cmarra	kmartin	tgrant-knight	dciolino-volano
+9	smuller	pmohanlall	ssabaugh	sadams
+10	mpark	ehawkins	adriggers	uahmed
+11	rparker	jhiggins	jbianchi	acassara
+12	arobinson	elara	sseccafico	pelfers-wygand
+13	ysears	jnovilloargudo	yyoung	smccoy
+14	wtobias	wlamorie	jxue	
+15	awade	slojacono	mthomas	
+```
+
+
 
 ---
 
