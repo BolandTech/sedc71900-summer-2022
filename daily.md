@@ -159,7 +159,7 @@ This method should search through `data` and return the index of the first time 
 
 ## Day 4 - July 18
   * livecode planning (cont.)
-  * 
+  * code tracing
 
 
 ---
