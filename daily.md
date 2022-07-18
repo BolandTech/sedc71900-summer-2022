@@ -161,6 +161,13 @@ This method should search through `data` and return the index of the first time 
   * livecode planning (cont.)
   * code tracing
 
+#### Assignment :: Create a livecoding plan of your own by annotating code.
+  1. Come up with TNPG.
+  1. Select a language to write a livecoding plan for.
+  1. Select a task to write a livecoding plan for (ideally, this would be a piece of code you have already available, it could even be sample code provided to you in the programming/data structures course)
+  1. Create your livecoding plan. You can use any combination of the TEACHER PROMPTS from the previous activity and your own reminders/symbols/notation.
+  1. DELIVERABLE: Submit your livecoding plan as **`methods/02_livecode_LANGUAGE`** with the appropriate file extension for your plan. If your group creates a plan that includes drawing markup, a pdf or image file is acceptable.
+
 
 ---
 
