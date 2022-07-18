@@ -8,8 +8,6 @@ Main working repo for Methods for Teaching Computer Science I -- Summer 2022
  )
   - asynchronous communication between sessions
   - Last year's cohort may offer support here...
-
-## Resources
 - syllabus: <https://github.com/hunter-teacher-cert/sedc71900-summer-2022/blob/main/syllabus.md>
 
 
