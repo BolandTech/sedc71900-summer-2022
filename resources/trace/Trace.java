@@ -1,9 +1,10 @@
 import java.util.*;
 
+public class Trace
+{
 
-public class Trace {
-
-  public static void main(String[] args) {
+  public static void main(String[] args)
+  {
     String h = hailstone(5);
     System.out.println(h);
 
@@ -11,7 +12,8 @@ public class Trace {
   }//main
 
 
-  public static String hailstone(int n) {
+  public static String hailstone(int n)
+  {
     String series = n + " ";
     int[] harray = new int[3];
     int hcount = 0;
@@ -30,7 +32,9 @@ public class Trace {
     return series;
   }
 
-  public static int gcd(int a, int b) {
+
+  public static int gcd(int a, int b)
+  {
     int r = 0;
     while (a % b != 0) {
       r = a % b;
@@ -40,5 +44,13 @@ public class Trace {
     return b;
   }//gcd
 
+
+  public static int fib(int n)
+  {
+    if (n <= 1) //base case (requires no recursive call to complete)
+      return 1;
+    else
+      return fib(n - 1) + fib(n - 2);
+  }
 
 }//Trace class
