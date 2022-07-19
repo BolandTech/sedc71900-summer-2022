@@ -197,6 +197,9 @@ teams for TRACING
   * code tracing (cont.)
 
 
+## Day 6 - July 20
+  * cs unplugged
+
 ---
 
 ## Portfolio assignment
