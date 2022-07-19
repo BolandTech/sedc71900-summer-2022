@@ -44,9 +44,11 @@
   - Use KtS liberally. If possible, note pedagogical aspects.
   - Function descriptions and sample output:
 
-  `barGraphify(nums)` takes a list of non-negative integers and prints a horizontal bar for each index, commensurate with the value at said index. _Exempli gratia,_ for x = {0,1,2,3}:
+  `barGraphify(nums)` takes a list of non-negative integers and prints a horizontal bar for each index, commensurate with the value at said index. _Exempli gratia,_ ... 
+  
+  for x = {0,1,2,3}:
   ```
-  barGraphify(x)
+  barGraphify(x) -> 
   0:
   1: =
   2: ==
@@ -55,16 +57,18 @@
 
   and for x = {1,0,3,2}
   ```
-  barGraphify(x)
+  barGraphify(x) -> 
   0: =
   1:
   2: ===
   3: ==
   ```
 
-  `vertBarGraphify(nums)` takes a list of non-negative integers and prints a set of vertical bars visualizing the magnitude of the value at each index. _Exempli gratia,_ for x = {0,1,2,3}:
+  `vertBarGraphify(nums)` takes a list of non-negative integers and prints a set of vertical bars visualizing the magnitude of the value at each index. _Exempli gratia,_ ... 
+  
+  for x = {0,1,2,3}:
   ```
-  vertBarGraphify(x)
+  vertBarGraphify(x) -> 
         *
       * *
     * * *
