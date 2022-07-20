@@ -14,6 +14,9 @@
   * https://classic.csunplugged.org/activities/
   * https://www.engage-csedu.org/search/materials
   * Graph paper programming: https://code.org/curriculum/course2/1/Teacher
+  * Ashley's list: 
+    - OG: https://docs.google.com/spreadsheets/d/12F-gdtL0CONKh7ulZLMSyvwni2d0GuPulVsTjWGLa-E/edit#gid=0
+    - available in this directory as CSV
   * YOUR LINKS HERE! (TM will add them per your submissions)
   * [https://www.saravanderwerf.com/100-numbers-to-get-students-talking/](https://www.saravanderwerf.com/100-numbers-to-get-students-talking/)
   * [card sort challenge](http://brainu.org/lesson/card-sort-challenge)
