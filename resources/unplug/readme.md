@@ -17,7 +17,7 @@
   * Ashley's list: 
     - OG: https://docs.google.com/spreadsheets/d/12F-gdtL0CONKh7ulZLMSyvwni2d0GuPulVsTjWGLa-E/edit#gid=0
     - available in this directory as CSV
-  * YOUR LINKS HERE! (TM will add them per your submissions)
+  * YOUR LINKS BELOW! (harvested from googform; more will be added if more googform submissions...)
   * [https://www.saravanderwerf.com/100-numbers-to-get-students-talking/](https://www.saravanderwerf.com/100-numbers-to-get-students-talking/)
   * [card sort challenge](http://brainu.org/lesson/card-sort-challenge)
   * [code.org's library of unplugged activities, sorted by courses or concepts](https://code.org/curriculum/unplugged)
