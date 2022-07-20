@@ -25,7 +25,7 @@ optionally with some treatment of how necessary each pre-req is...
 1. NOTA BENE! You will note that this list is 1-1-1-1... but when you view the rendered markdown, it will appear as 1-2-3-etc. GitHub will automatically do this for you.
 
 ### Related resources
-* a link
+* [a link's visible text](https://xkcd.com)
 * a story
 * a book
 * name of a person who know a lot
