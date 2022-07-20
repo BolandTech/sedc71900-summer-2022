@@ -28,4 +28,10 @@
   * [Code Monkey Island Board Game](http://mygames4good.com/product/code-monkey-island/)
   * [Robot Turtles board game](https://www.amazon.com/Think-Fun-Turtles-Coding-Preschoolers/dp/B00HN2BXUY/ref=asc_df_B00HN2BXUY/?tag=hyprod-20&linkCode=df0&hvadid=241994149842&hvpos=&hvnetw=g&hvrand=11952292367853838055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9067609&hvtargid=pla-440959412344&psc=1)
   * [Botley robot (screen free)](https://www.learningresources.com/media/botley/?gclid=Cj0KCQjwz96WBhC8ARIsAATR251j29IFV3_a_930qd_bRTiK3ckzHZ-sSB8XbKiTdmXvgrymRrpnBEkaAgCMEALw_wcB)
-  
+  * [direct link to activities on csunplugged site](https://classic.csunplugged.org/activities/)
+  * [Code & Go® Robot Mouse Activity Set (screen free)](https://www.learningresources.com/item-code-gor-robot-mouse-activity-set)
+  * [Let's Go Code!™ Activity Set (physical game - teaches/logic/algorithms)](https://www.learningresources.com/item-let-s-go-code-tm-activity-set)
+  * [Cubetto robot (screen free)](https://www.primotoys.com/)
+  * [A great collection of free unplugged cs resources based on various topics  (i.e. data structures, searching algorithms, binary numbers ,etc.) through games, puzzles, crayons, curriculum integration, etc. Includes edEX MOOCs course  for educators "Teaching Computational Thinking"](https://www.csunplugged.org/en/) 
+
+* * *
