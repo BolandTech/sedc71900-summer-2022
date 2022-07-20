@@ -32,5 +32,8 @@ optionally with some treatment of how necessary each pre-req is...
 * name of a person who know a lot
 * etc
 
-Oh, so think you're XTRA? (this is TOTALLY OPTIONAL... only if you see a place where an image could help in a big way, and you have some time to noodle with your markdown)
+
+* * *
+
+Done already? Looking to be xtra? (this is entirely optional... only if you see a place where an image could help in a big way, and you have some time to noodle with your markdown)
 A not-too-bad how-to guide for inserting images in your markdown: https://www.foxinfotech.in/2019/12/github-markdown-add-an-image-to-readme-md-file.html
