@@ -70,24 +70,24 @@ N/A
   - live coding demo
   - lab: design and demo a live coding experience from a CS1 program
 1. July 18
+  - Live coding cont.
 	- Code Tracing
-	- Language analysis - NetLogo
 1. July 19
-	- Unplugged assignments
-	- what and why
-	- Assignment: design an unplugged experience.
-	- Standards
-	  - IC 1
+	- Code tracing cont.
+	- Assignment: Reflection on code tracing.
 1. July 20
-	- Scaffolding assignments
-		- Code templates
-	- starter code
-	- code idioms
-	 - Assignment: Analyze and existing program. What would you pull out
-		 as starter code or code templates for a student assignment.
-	 - Standards
-		 - CT 4
+  - Unplugged activities
+  - Standards
+    - IC 1
 1. July 21
+  - Scaffolding assignments
+    - Code templates
+  - starter code
+  - code idioms
+   - Assignment: Analyze and existing program. What would you pull out
+     as starter code or code templates for a student assignment.
+   - Standards
+     - CT 4
    - Using javadoc
    - Making class resources easily available over the internet.
      - Using a GitHub repository as a main class website.
