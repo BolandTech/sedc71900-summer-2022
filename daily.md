@@ -203,6 +203,22 @@ teams for TRACING
 ## Day 7 - July 21
   * under construction
 
+* * *
+
+State of student work repo after day 6:
+```
+path/to/cohort-3-summer-work-tofr/methods$ tree 
+.
+├── 01_lesson
+├── 02_livecode_LANGUAGE.langext
+├── 03_trace.txt
+├── 04_unplugged
+├── README.org
+└── toolbox
+    └── readme.md
+```
+
+
 ---
 
 ## Portfolio assignment
