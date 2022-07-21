@@ -205,14 +205,15 @@ teams for TRACING
 
 * * *
 
-State of student work repo after day 6:
+State of student work repo after day 7:
 ```
-path/to/cohort-3-summer-work-tofr/methods$ tree 
+.../methods$ 
 .
 ├── 01_lesson
 ├── 02_livecode_LANGUAGE.langext
 ├── 03_trace.txt
 ├── 04_unplugged
+├── 05_scaffoldtechniques.md
 ├── README.org
 └── toolbox
     └── readme.md
