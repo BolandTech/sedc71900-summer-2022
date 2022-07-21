@@ -200,6 +200,9 @@ teams for TRACING
 ## Day 6 - July 20
   * cs unplugged
 
+## Day 7 - July 21
+  * under construction
+
 ---
 
 ## Portfolio assignment
