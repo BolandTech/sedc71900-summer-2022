@@ -2,6 +2,10 @@
 
 Look here for aggregated activities created by students in Hunter's Advanced Computer Science Teaching Certificate Program.
 
+## Contents:
+[CS Unplugged Activities](#cs-unplugged-activities)
+[Scaffolded Assignments](#scaffolded-assignments)
+
 ## CS Unplugged Activities
 
 | Topic | Team | Link |
@@ -15,3 +19,7 @@ Look here for aggregated activities created by students in Hunter's Advanced Com
 | Sorting Algorithms w/Physical Objects | Room 3 | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-AJP713/blob/master/methods/04_unplugged.md> |
 | Variables & Reassignment | M&Ms | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-mshuman8/blob/master/methods/04_unplugged.md> | 
 | Looping Blocks | MiddleSchool_i_sHell | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/blob/master/methods/04_unplugged.md> |
+
+## Scaffolded Assignments
+| Topic | Team | Link |
+| ---   | ---  | ---  |
