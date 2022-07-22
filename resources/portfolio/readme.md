@@ -2,61 +2,61 @@ first pass over ghpages
 2022-07-22f 19:20
 
 
-https://Mr-Adams.github.io/nycscertweb
-https://usman0527.github.io/nycscertweb
-https://JABianchi.github.io/nycscertweb
-https://BolandTech.github.io/nycscertweb
-https://AliseBraick.github.io/nycscertweb
-https://acassara13.github.io/nycscertweb
-https://dcv86.github.io/nycscertweb
-https://msCOJUANGCO.github.io/nycscertweb
-https://cdesilva2.github.io/nycscertweb
-https://awdriggs.github.io/nycscertweb
-https://beckley1.github.io/nycscertweb
-https://pelfers21.github.io/nycscertweb
-https://hfung8.github.io/nycscertweb
-https://sgoldstein11.github.io/nycscertweb
-https://tgrantknight.github.io/nycscertweb
-https://ehawkins18.github.io/nycscertweb
-https://mathiskey.github.io/nycscertweb
-https://herrkm.github.io/nycscertweb
-https://Mr-Higgins.github.io/nycscertweb
-https://rkaufman8.github.io/nycscertweb
-https://mrlamorie.github.io/nycscertweb
-https://Elara711.github.io/nycscertweb
-https://AmaneWei.github.io/nycscertweb
-https://YLevels.github.io/nycscertweb
-https://jenna0704.github.io/nycscertweb
-https://sdl5384.github.io/nycscertweb
-https://chrismarra21.github.io/nycscertweb
-https://Kirk-Martin.github.io/nycscertweb
-https://Kmaschm.github.io/nycscertweb
-https://sarahkmccoy.github.io/nycscertweb
-https://ParmanandM1.github.io/nycscertweb
-https://dmoste.github.io/nycscertweb
-https://saraniim.github.io/nycscertweb
-https://jnovillo.github.io/nycscertweb
-https://jpark-29.github.io/nycscertweb
-https://michaelpark677.github.io/nycscertweb
-https://richparker718.github.io/nycscertweb
-https://AJP713.github.io/nycscertweb
-https://mikeinawall.github.io/nycscertweb
-https://DrydenArt.github.io/nycscertweb
-https://AlanaY11.github.io/nycscertweb
-https://SAYbaw.github.io/nycscertweb
-https://sciame.github.io/nycscertweb
-https://ysears.github.io/nycscertweb
-https://ssecc001.github.io/nycscertweb
-https://mshuman8.github.io/nycscertweb
-https://jmtheo8.github.io/nycscertweb
-https://marieke-thomas.github.io/nycscertweb
-https://WayneTobias.github.io/nycscertweb
-https://a-ufret.github.io/nycscertweb
-https://awade05.github.io/nycscertweb
-https://twardally.github.io/nycscertweb
-https://theawilliams19.github.io/nycscertweb
-https://jingxue8303.github.io/nycscertweb
-https://Maxwoodi.github.io/nycscertweb
-https://yenminyoung.github.io/nycscertweb
-https://qvzou.github.io/nycscertweb
+- https://Mr-Adams.github.io/nycscertweb
+- https://usman0527.github.io/nycscertweb
+- https://JABianchi.github.io/nycscertweb
+- https://BolandTech.github.io/nycscertweb
+- https://AliseBraick.github.io/nycscertweb
+- https://acassara13.github.io/nycscertweb
+- https://dcv86.github.io/nycscertweb
+- https://msCOJUANGCO.github.io/nycscertweb
+- https://cdesilva2.github.io/nycscertweb
+- https://awdriggs.github.io/nycscertweb
+- https://beckley1.github.io/nycscertweb
+- https://pelfers21.github.io/nycscertweb
+- https://hfung8.github.io/nycscertweb
+- https://sgoldstein11.github.io/nycscertweb
+- https://tgrantknight.github.io/nycscertweb
+- https://ehawkins18.github.io/nycscertweb
+- https://mathiskey.github.io/nycscertweb
+- https://herrkm.github.io/nycscertweb
+- https://Mr-Higgins.github.io/nycscertweb
+- https://rkaufman8.github.io/nycscertweb
+- https://mrlamorie.github.io/nycscertweb
+- https://Elara711.github.io/nycscertweb
+- https://AmaneWei.github.io/nycscertweb
+- https://YLevels.github.io/nycscertweb
+- https://jenna0704.github.io/nycscertweb
+- https://sdl5384.github.io/nycscertweb
+- https://chrismarra21.github.io/nycscertweb
+- https://Kirk-Martin.github.io/nycscertweb
+- https://Kmaschm.github.io/nycscertweb
+- https://sarahkmccoy.github.io/nycscertweb
+- https://ParmanandM1.github.io/nycscertweb
+- https://dmoste.github.io/nycscertweb
+- https://saraniim.github.io/nycscertweb
+- https://jnovillo.github.io/nycscertweb
+- https://jpark-29.github.io/nycscertweb
+- https://michaelpark677.github.io/nycscertweb
+- https://richparker718.github.io/nycscertweb
+- https://AJP713.github.io/nycscertweb
+- https://mikeinawall.github.io/nycscertweb
+- https://DrydenArt.github.io/nycscertweb
+- https://AlanaY11.github.io/nycscertweb
+- https://SAYbaw.github.io/nycscertweb
+- https://sciame.github.io/nycscertweb
+- https://ysears.github.io/nycscertweb
+- https://ssecc001.github.io/nycscertweb
+- https://mshuman8.github.io/nycscertweb
+- https://jmtheo8.github.io/nycscertweb
+- https://marieke-thomas.github.io/nycscertweb
+- https://WayneTobias.github.io/nycscertweb
+- https://a-ufret.github.io/nycscertweb
+- https://awade05.github.io/nycscertweb
+- https://twardally.github.io/nycscertweb
+- https://theawilliams19.github.io/nycscertweb
+- https://jingxue8303.github.io/nycscertweb
+- https://Maxwoodi.github.io/nycscertweb
+- https://yenminyoung.github.io/nycscertweb
+- https://qvzou.github.io/nycscertweb
 
