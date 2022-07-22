@@ -21,14 +21,15 @@ Look here for aggregated activities created by students in Hunter's Advanced Com
 | Looping Blocks | MiddleSchool_i_sHell | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/blob/master/methods/04_unplugged.md> |
 
 ## Scaffolded Assignments
+
 | Language | Team | Link |
 | ---   | ---  | ---  |
-| Java | abraick ssabaugh	erechtin | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-AliseBraick/blob/master/methods/06_scaffold_activity.java> |
+| Java | abraick ssabaugh erechtin | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-AliseBraick/blob/master/methods/06_scaffold_activity.java> |
 | Scratch | arobinson qzou aufret shenry | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-AlanaY11/blob/master/methods/06_scaffold_activity.md> |
 | p5.js | awade ehawkins | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-awade05/blob/master/methods/06_scaffold_activity.txt> |
 | Java | beckley cdesilva | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-beckley1/blob/master/methods/06_scaffold_activity.md> |
-| Python | cmarra mpark	alee | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-chrismarra21/blob/master/methods/06_scaffold_activity.py> |
+| Python | cmarra mpark alee | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-chrismarra21/blob/master/methods/06_scaffold_activity.py> |
 | Java | jbianchi myearwood | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-JABianchi/blob/master/methods/06_scaffold_activity.md> |
 | Java | jlin acassara jpark | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/06_scaffold_activity.java> |
-| Python | jnovilloargudo	mshuman | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jnovillo/blob/master/methods/06_scaffold_activity.py> | 
+| Python | jnovilloargudo mshuman | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jnovillo/blob/master/methods/06_scaffold_activity.py> | 
 
