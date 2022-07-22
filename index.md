@@ -32,4 +32,10 @@ Look here for aggregated activities created by students in Hunter's Advanced Com
 | Java | jbianchi myearwood | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-JABianchi/blob/master/methods/06_scaffold_activity.md> |
 | Java | jlin acassara jpark | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704/blob/master/methods/06_scaffold_activity.java> |
 | Python | jnovilloargudo mshuman | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jnovillo/blob/master/methods/06_scaffold_activity.py> | 
-
+| Java | jxue rparker aprado | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-jingxue8303/blob/master/methods/06_scaffold_activity.java> |
+| Java | kherr dmoste | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-herrkm/blob/master/methods/06_scaffold_activity.java> |
+| Scratch | rkaufman uahmed | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-rkaufman8/blob/master/methods/06_scaffold_activity.pdf> |
+| Snap | smccoy twardally | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/methods/06_scaffold_activity.pdf> |
+| Java | tgrantknight lboland | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-tgrantknight-1/blob/master/methods/06_scaffold_activity.md> |
+| Scratch | twilliams jtheobald ylevels | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-theawilliams19/blob/master/methods/06_scaffold_activity.png> |
+| Javascript | yyoung hfung | <https://github.com/hunter-teacher-cert/cohort-3-summer-work-yenminyoung/blob/master/methods/06_scaffold_activity.md> |
