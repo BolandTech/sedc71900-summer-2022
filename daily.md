@@ -203,9 +203,12 @@ teams for TRACING
 ## Day 7 - July 21
   * under construction
 
+## Day 8 - July 22
+  * under construction...
+
 * * *
 
-State of student work repo after day 7:
+State of student work repo after day 8:
 ```
 .../methods$ 
 .
@@ -214,6 +217,8 @@ State of student work repo after day 7:
 ├── 03_trace.txt
 ├── 04_unplugged
 ├── 05_scaffoldtechniques.md
+├── 06_scaffold_activity.langext
+├── 06_scaffold_solution.langext
 ├── README.org
 └── toolbox
     └── readme.md
