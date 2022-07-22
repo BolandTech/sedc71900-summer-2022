@@ -205,6 +205,20 @@ teams for TRACING
 
 ## Day 8 - July 22
   * under construction...
+  * publishing course material via github pages
+```
+teams for github work						
+1	elara	kherr	pmohanlall	smuller	ysears	arobinson
+2	ehawkins	jxue	aprado	smccoy	ylevels	alee
+3	dciolino-volano	jnovilloargudo	myearwood	shenry	wlamorie	adriggers
+4	jpark	lboland	mshuman	erechtin	twardally	pelfers-wygand
+5	beckley	jbianchi	mpark	rparker	tgrant-knight	acassara
+6	aufret	gsciame	kmartin	qzou	ssabaugh	abraick
+7	dmoste	jtheobald	ncojuangco	slojacono	wtobias	
+8	awade	hfung	kmaschmeyer	rkaufman	sseccafico	
+9	cdesilva	jhiggins	mrandazzo	sadams	twilliams	
+10	cmarra	jlin	mthomas	sgoldstein	uahmed	
+```
 
 * * *
 
