@@ -2,6 +2,8 @@
 
 Look here for aggregated activities created by students in Hunter's Advanced Computer Science Teaching Certificate Program.
 
+I changed it here!
+
 ## Contents
 * [CS Unplugged Activities](#cs-unplugged-activities)
 * [Scaffolded Assignments](#scaffolded-assignments)
