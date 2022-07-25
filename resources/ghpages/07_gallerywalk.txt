@@ -1,0 +1,32 @@
+First Last
+Methods Summer 2022
+GALLERY TOUR LOG
+
+
+USAGE OF TOP SECTION: 
+* Fill in discoveries etc section as you go, or after your is complete.
+* Replicate the 
+* Delete these instructions once read.
+====================================================
+DISCOVERIES:
+* any cool tips/tricks/hacks you learned
+* 1 per line, please
+
+
+LINGERING QUESTIONS:
+* 1 per line, please
+
+
+COMMENTS/CONCERNS/OTHER:
+* 1 per line, please
+====================================================
+
+
+USAGE OF BOTTOM SECTION: 
+* For any site you deem notable, add an entry using the format below
+====================================================
+notable site:
+URL
+notable aspect:
+what is cool about this site
+-------------------------------------
