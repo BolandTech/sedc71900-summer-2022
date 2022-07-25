@@ -220,6 +220,10 @@ teams for github work
 10	cmarra	jlin	mthomas	sgoldstein	uahmed	
 ```
 
+## Day 9 - July 25
+  * making documentation work for you
+  * portfolio building
+
 * * *
 
 State of student work repo after day 8:
