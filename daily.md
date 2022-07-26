@@ -224,9 +224,12 @@ teams for github work
   * making documentation work for you
   * portfolio building
 
+## Day 10 - July 26
+  * gotta catch 'em all
+
 * * *
 
-State of student work repo after day 8:
+State of student work repo after day 9:
 ```
 .../methods$ 
 .
@@ -237,6 +240,7 @@ State of student work repo after day 8:
 ├── 05_scaffoldtechniques.md
 ├── 06_scaffold_activity.langext
 ├── 06_scaffold_solution.langext
+├── 07_gallerywalk.txt
 ├── README.org
 └── toolbox
     └── readme.md
@@ -247,8 +251,7 @@ State of student work repo after day 8:
 
 ## Portfolio assignment
 
-   Students are to create two detailed lesson plans,
-   outlines and supporting materials for computer science. The lesson plans and outlines should include a description of the intended student
+   Students are to create two detailed lesson plans, outlines and supporting materials for computer science. The lesson plans and outlines should include a description of the intended student
    audience and a detailed explanation of how multiple pedagogical techniques can be used in delivering the lesson.
 
    Each lesson plan should demonstrate different pedogogical techniques, though there may be some overlap.
