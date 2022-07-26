@@ -229,7 +229,7 @@ teams for github work
 
 * * *
 
-State of student work repo after day 9:
+State of your work repo after day 10:
 ```
 .../methods$ 
 .
@@ -241,6 +241,7 @@ State of student work repo after day 9:
 ├── 06_scaffold_activity.langext
 ├── 06_scaffold_solution.langext
 ├── 07_gallerywalk.txt
+├── 08_debug
 ├── README.org
 └── toolbox
     └── readme.md
