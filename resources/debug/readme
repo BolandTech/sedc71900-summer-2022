@@ -1,8 +1,15 @@
 ## related resources
-- java:
-  - ThinkJava on debugging techniques: https://books.trinket.io/thinkjava/appendix-c.html
+- ThinkJava on debugging techniques: https://books.trinket.io/thinkjava/appendix-c.html
+- visualizers:
+  - https://thonny.org/
+  - https://racket-lang.org/
+  - http://snap.berkeley.edu/
+  - http://codehs.com/
+  - https://www.onlinegdb.com/online_java_debugger
+  - https://docs.microsoft.com/en-us/visualstudio/debugger/navigating-through-code-with-the-debugger?view=vs-2022&tabs=csharp
   - UWaterloo Java visualizer: https://cscircles.cemc.uwaterloo.ca/java_visualize/
-  - Java Tutor: http://pythontutor.com/java.html#mode=edit
+  - Java visualizer: http://pythontutor.com/java.html#mode=edit
+  - `debugger;` in JS by Driggs
 - rubber duck debugging:
   - https://en.wikipedia.org/wiki/Rubber_duck_debugging
   - http://rubber-duck-debugging.org/
@@ -12,3 +19,5 @@
   - https://rubberduckdebugging.com/cyberduck/
 - lore:
   - https://www.bugsnag.com/blog/celebrating-grace-hopper-and-the-origins-of-debugging
+- BLUE FOLDER by Wayne
+- https://www.gimkit.com/
